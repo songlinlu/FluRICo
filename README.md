@@ -5,14 +5,15 @@
   
 </div>
 
-<!-- ## *Fluctuation, Remote Interaction and Coordination*<br />
+### *Fluctuation, Remote Interaction and Coordination*
 
-
-### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications. -->
-<h2 style="border-bottom: none;"><em>Fluctuation, Remote Interaction and Coordination</em></h2>
 <br />
 
-### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications.
+#### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications.
+
+<br />
+
+
 
 
 ## Workflow in our study
