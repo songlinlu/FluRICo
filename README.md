@@ -1,17 +1,19 @@
-<img src="figures/flurico_banner.png" align="right" height="400" width="600">
+<img src="figures/flurico_banner.png" align="right"  width="500">
 
 <div style="display: flex; align-items: center;">
-  <img src="figures/flurico_icon.png"  width="200" style="margin-right: 100px;">
+  <img src="figures/flurico_icon.png"  width="400" style="margin-right: 100px;">
   
 </div>
 
-## *Fluctuation, Remote Interaction and Coordination*
+<!-- ## *Fluctuation, Remote Interaction and Coordination*<br />
 
+
+### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications. -->
+<h2 style="border-bottom: none;"><em>Fluctuation, Remote Interaction and Coordination</em></h2>
+<br />
 
 ### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications.
 
-
-<br />
 
 ## Workflow in our study
 ![image](figures/workflow.png)
