@@ -1,7 +1,7 @@
 <img src="figures/flurico_banner.png" align="right"  width="500">
 
 <div style="display: flex; align-items: center;">
-  <img src="figures/flurico_icon.png"  width="400" style="margin-right: 10px;">
+  <img src="figures/flurico_icon.png"  width="300" style="margin-right: 10px;">
   
 </div>
 
