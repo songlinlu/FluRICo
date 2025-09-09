@@ -16,8 +16,7 @@
 
 
 
-## Workflow in our study
-![image](figures/workflow.png)
+
 
 ## Usage
 1. *statsmodels* and *scipy* packages are essential for FluRICo. You should at least install these 2 packages in your python environment.
