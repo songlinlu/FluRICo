@@ -9,7 +9,8 @@
 
 <br />
 
-#### Rapid screening for biomarkers based on inner stability, disease awareness and cross-omics communications.
+#### Coordinated Relational Restructuring of the Gut Microbiome and Serum Metabolome Encodes Lung Adenocarcinoma Progression
+
 
 <br />
 
