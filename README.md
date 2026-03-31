@@ -21,12 +21,12 @@
 
 
 
-## Usage
+## Quick Start
 1. *statsmodels* and *scipy* packages are essential for FluRICo. You should at least install these 2 packages in your python environment.
 2. Prepare your own data. Co-abundance for microbiome should follow https://github.com/scwatts/fastspar guide.
 2. Check the example in FluRICo_example.ipynb.
 ```python
-# Quick Start
+
 from core.flurico import FluRiCoAnalysis
 
 # Load your data
@@ -46,7 +46,6 @@ analyzer = FluRiCoAnalysis(microbe_data=df_mb, metabolite_data=df_mt,
 # start flurico scoring
 all_scores = analyzer.calculate_all_scores()
 
-# filter top 20% feature for microbiome and metabolome in each cohort
 analyzer.save_results(output_dir='your_dir')
 
 ```
