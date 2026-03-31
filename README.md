@@ -1,7 +1,7 @@
 ## Coordinated Relational Restructuring of the Gut Microbiome and Serum Metabolome Encodes Lung Adenocarcinoma Progression
 
 
-<img src="figures/flurico_banner.png" align="right"  width="300">
+<img src="figures/flurico_banner.png" align="right"  width="400">
 
 <div style="display: flex; align-items: center;">
   <img src="figures/flurico_icon.png"  width="300" style="margin-right: 10px;">
@@ -11,7 +11,9 @@
 ### *Fluctuation, Remote Interaction and Coordination*
 
 
-
+<br>
+<br>
+<br>
 
 
 
