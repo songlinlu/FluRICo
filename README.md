@@ -1,7 +1,7 @@
 ## Coordinated Relational Restructuring of the Gut Microbiome and Serum Metabolome Encodes Lung Adenocarcinoma Progression
 
 
-<img src="figures/flurico_banner.png" align="right"  width="500">
+<img src="figures/flurico_banner.png" align="right"  width="300">
 
 <div style="display: flex; align-items: center;">
   <img src="figures/flurico_icon.png"  width="300" style="margin-right: 10px;">
@@ -21,13 +21,15 @@
 2. Prepare your own data. Co-abundance for microbiome should follow https://github.com/scwatts/fastspar guide.
 2. Check the example in FluRICo_example.ipynb.
 ```python
-from utils.flurico import FluRiCoAnalysis
+# Quick Start
+from core.flurico import FluRiCoAnalysis
 
 # Load your data
 df_mb = pd.read_csv('xxx/mb.csv',index_col=0) 
 df_mt = pd.read_csv('xxx/mt.csv',index_col=0)
 
-# Load co-coabundance data, different cohorts should calculate separately.
+# Load co-coabundance data
+# Fastspar co-abundance should be calculated within each group
 df_mb_corr = {}
 for i in ['Co_1','Co_2','Co_3']:
     df_mb_corr[i] = pd.read_csv(f'xxx/{i}_coabundance.tsv',sep='\t',index_col=0)
@@ -40,6 +42,6 @@ analyzer = FluRiCoAnalysis(microbe_data=df_mb, metabolite_data=df_mt,
 all_scores = analyzer.calculate_all_scores()
 
 # filter top 20% feature for microbiome and metabolome in each cohort
-common_features = analyzer.query_common_features(top_percent=0.2)
+analyzer.save_results(output_dir='your_dir')
 
 ```
