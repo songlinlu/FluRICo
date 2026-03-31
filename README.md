@@ -6,7 +6,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="figures/flurico_icon.png"  width="400" style="margin-right: 10px;">
+  <img src="figures/flurico_icon.png"  width="300" style="margin-right: 10px;">
 <br>
 </div>
 
