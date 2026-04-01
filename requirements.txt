@@ -1,0 +1,16 @@
+anndata
+joblib
+lightgbm
+matplotlib
+matplotlib-venn
+numpy
+omicverse
+pandas
+scanpy
+scipy
+seaborn
+scikit-bio
+scikit-learn
+statsmodels
+tqdm
+umap-learn
