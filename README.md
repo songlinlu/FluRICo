@@ -24,7 +24,6 @@
 ## Quick Start
 1. *statsmodels* and *scipy* packages are essential for FluRICo. You should at least install these 2 packages in your python environment.
 2. Prepare your own data. Co-abundance for microbiome should follow https://github.com/scwatts/fastspar guide.
-2. Check the example in FluRICo_example.ipynb.
 ```python
 
 from core.flurico import FluRiCoAnalysis
