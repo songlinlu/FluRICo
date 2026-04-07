@@ -1,5 +1,4 @@
-## Coordinated Relational Restructuring of the Gut Microbiome and Serum Metabolome Encodes Lung Adenocarcinoma Progression
-
+## Gut Microbial Community Architecture Tracks Lung Adenocarcinoma Progression Through Relational Restructuring and Metabolome Coupling
 
 <img src="figures/flurico_banner.png" align="right"  width="500">
 
